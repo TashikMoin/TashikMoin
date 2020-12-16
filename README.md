@@ -2,64 +2,72 @@
       
 
 - 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                      
-<b>National University Of Computer & Emerging Sciences (FAST), Karachi</b>.
+     <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
+     
 - 🔧 I love computers and I like to explore new tools and new technologies. 
       I am also a Microsoft Certified Trainer (MCT) who teaches these tools
       and technologies to other people around me.
       
 
 ## 🚀 Interests:
-- <b> Cloud Computing </b>
-- <b> Artificial Intelligence </b>
-- <b> Web Development </b>
-- <b> Software Engineering </b>
-
+<div>
+<img src="img/CC.png" height="50" width="50px">
+<img src="img/AI.png" height="50" width="50px">
+<img src="img/WD.png" height="50" width="50px">
+<img src="img/SD.png" height="50" width="50px">
+<img src="img/DO.png" height="50" width="50px">
+</div>
 
 ## 📖 Certifications:
 
-- Microsoft Azure fundamental AZ-900.
-- Software development fundamentals with C# 98-361.
-- Introduction to programming with Python 98-381.
-- Oracle Cloud Infrastructure Foundations 2020 Certified Associate.
-- Oracle Cloud Infrastructure 2019 Cloud Operations Associate.
-- Oracle Cloud Infrastructure Developer 2020 Certified Associate.
-- Microsoft Office Specialist (MOS).
+<div>
+<img src="img/Cer1.png" height="70" width="70px">
+<img src="img/Cer2.png" height="70" width="70px">
+<img src="img/Cer3.png" height="70" width="70px">
+<img src="img/Cer4.png" height="70" width="70px">
+<img src="img/Cer5.png" height="70" width="70px">
+<img src="img/Cer6.png" height="70" width="70px">
+<img src="img/Cer7.png" height="70" width="70px">
+<img src="img/Cer8.png" height="70" width="70px">
+</div>
 
 ## 🔤 Languages:
 
 <div>
-<img src="img/logo1.png" height="50" width="50px">
-<img src="img/logo2.svg" height="50" width="50px">
-<img src="img/logo3.svg" height="50" width="50px">
-<img src="img/logo4.svg" height="50" width="50px">
-<img src="img/logo6.svg" height="50" width="50px">
-<img src="img/logo7.png" height="50" width="50px">
+<img src="img/C.webp" height="50" width="50px">
+<img src="img/C++.png" height="50" width="50px">
+<img src="img/Python.png" height="50" width="50px">
+<img src="img/C#.png" height="50" width="50px">
+<img src="img/JS.svg" height="50" width="50px">
+<img src="img/HTML.png" height="50" width="50px">
+<img src="img/CSS.png" height="50" width="50px">
 </div>
 
 ## :gear: Frameworks:
 
 <div>
-<img src="img/logo5.svg" height="50" width="80px">
-<img src="img/logo10.svg" height="50" width="80px">
-<img src="img/logo8.svg" height="50" width="80px">
-<img src="img/logo9.svg" height="50" width="80px">
+<img src="img/node.svg" height="60" width="60px">
+<img src="img/react.svg" height="60" width="60px">
+<img src="img/express.svg" height="60" width="60px">
+<img src="img/.NET.png" height="60" width="60px">
 </div>
 
 ## 🛠 Tools:
 
 <div>
-<img src="img/logo17.svg" height="50" width="50px">
-<img src="img/logo11.webp" style="padding-left: 10px;" height="50" width="50px">
-<img src="img/logo14.svg" style="padding-left: 10px;" height="50" width="50px">
-<img src="img/logo12.svg"  height="50" width="50px">
-<img src="img/logo16.svg" height="50" width="50px">
-<img src="img/logo13.svg" height="50" width="50px">
-<img src="img/logo19.svg" height="50" width="50px">
-<img src="img/logo15.png" height="50" width="50px">
-<img src="img/logo18.png" height="50" width="50px">
-<img src="img/logo20.png" height="50" width="50px">
+<img src="img/Linux.svg" height="60" width="60px">
+<img src="img/git.svg" height="60" width="60px">
+<img src="img/bash.svg" height="60" width="60px">
+<img src="img/github.svg" height="60" width="60px">
+<img src="img/docker.webp" height="60" width="60px">
+<img src="img/AWS.png" height="60" width="60px">
+<img src="img/azure.png" height="60" width="60px">
+<img src="img/npm.svg" height="60" width="60px">
+<img src="img/mongodb.png" height="60" width="60px">
+<img src="img/oracle.png" height="60" width="60px">
+<img src="img/mysql.png" height="60" width="60px">
 </div>
 
 ## My Github stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hassanzhd)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tashikmoin23)
