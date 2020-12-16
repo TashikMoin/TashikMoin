@@ -14,7 +14,6 @@
 <img src="img/CC.svg" height="50" width="50px">
 <img src="img/AI.svg" height="50" width="50px">
 <img src="img/WD.svg" height="50" width="50px">
-<img src="img/SD.svg" height="50" width="50px">
 <img src="img/DO.svg" height="50" width="50px">
 </div>
 
@@ -58,14 +57,14 @@
 ## 📖 Certifications:
 
 <div>
-<img src="img/Cer1.png" height="100" width="100px">
-<img src="img/Cer2.png" height="100" width="100px">
-<img src="img/Cer3.png" height="100" width="100px">
-<img src="img/Cer4.png" height="100" width="100px">
-<img src="img/Cer5.png" height="100" width="100px">
-<img src="img/Cer6.png" height="100" width="100px">
-<img src="img/Cer7.png" height="100" width="100px">
-<img src="img/Cer8.png" height="100" width="100px">
+<img src="img/Cer1.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer2.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer3.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer4.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer5.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer6.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer7.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer8.png" style="zoom: normal;" height="80" width="100px">
 </div>
 
 ## My Github stats:
