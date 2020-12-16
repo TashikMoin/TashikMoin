@@ -29,7 +29,6 @@
 <img src="img/CSS.png" height="50" width="50px">
 </div>
 
-![Tashik's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tashikmoin23&hide_langs_below=1&layout=compact)
 
 ## :gear: Frameworks:
 
