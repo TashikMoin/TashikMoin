@@ -1,7 +1,4 @@
-## 👋 Hi there! I am Tashik Moin.
-      
-
- 🏫 
+## 👋 Hi there! I am Tashik Moin. 
  <div>
       <h6>
             I am currently doing my <b> Bachelors in Computer Science (BSCS)</b> from                                                                                                     <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
@@ -9,7 +6,7 @@
  </div>
 
      
-## 🔧 Experience:
+## 🏫 Experience:
 <div>
 <h4> - Cloud Analyst at Plugcloud, INC </h4>
 <h4> - Microsoft Certified Trainer (MCT) </h4>
@@ -20,7 +17,7 @@
 </div>
       
 
-## 🚀 Interests:
+## 🔧🚀 Skills And Interests:
 <div>
 <img src="img/CC.svg" height="50" width="50px">
 <img src="img/AI.svg" height="50" width="50px">
