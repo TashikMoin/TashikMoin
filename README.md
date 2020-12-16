@@ -1,12 +1,19 @@
 ## 👋 Hi there! I am Tashik Moin.
       
 
-- 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                      
+## 🏫 
+     Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                      
      <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
      
-- 🔧 I love computers and I like to explore new tools and new technologies. 
-      I am also a Microsoft Certified Trainer (MCT) who teaches these tools
-      and technologies to other people around me.
+## 🔧 Experience:
+<div>
+<h2> Cloud Analyst at Plugcloud, INC </h2>
+<h2> Microsoft Certified Trainer (MCT) </h2>
+<h2> Microsoft Gold Student Ambassador (GMLSA) </h2>
+<h2> Microsoft Certified Professional (MCP) </h2>
+<h2> Microsoft Office Specialist (MOS) </h2>
+<h2> Microsoft Technology Associate (MTA) </h2>
+</div>
       
 
 ## 🚀 Interests:
