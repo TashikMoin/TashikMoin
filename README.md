@@ -17,7 +17,7 @@
 </div>
       
 
-## 🔧🚀 Skills And Interests:
+## 🚀 Skills And Interests:
 <div>
 <img src="img/CC.svg" height="50" width="50px">
 <img src="img/AI.svg" height="50" width="50px">
