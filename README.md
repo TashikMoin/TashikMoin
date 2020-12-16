@@ -1,7 +1,7 @@
 ## 👋 Hi there! I am Tashik Moin.
       
 
-- 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from 
+- 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                      
 <b>National University Of Computer & Emerging Sciences (FAST), Karachi</b>.
 - 🔧 I love computers and I like to explore new tools and new technologies. 
       I am also a Microsoft Certified Trainer (MCT) who teaches these tools
