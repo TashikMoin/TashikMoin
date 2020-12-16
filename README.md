@@ -57,14 +57,14 @@
 ## 📖 Certifications:
 
 <div>
-<img src="img/Cer1.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer2.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer3.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer4.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer5.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer6.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer7.png" style="zoom: normal;" height="80" width="100px">
-<img src="img/Cer8.png" style="zoom: normal;" height="80" width="100px">
+<img src="img/Cer1.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer2.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer3.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer4.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer5.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer6.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer7.png" style="zoom: 100%;" height="80" width="100px">
+<img src="img/Cer8.png" style="zoom: 100%;" height="80" width="100px">
 </div>
 
 ## My Github stats:
