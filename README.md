@@ -12,23 +12,23 @@
 ## 🚀 Interests:
 <div>
 <img src="img/CC.png" height="50" width="50px">
-<img src="img/AI.png" height="50" width="50px">
-<img src="img/WD.png" height="50" width="50px">
-<img src="img/SD.png" height="50" width="50px">
-<img src="img/DO.webp" height="50" width="50px">
+<img src="img/AI.svg" height="50" width="50px">
+<img src="img/WD.svg" height="50" width="50px">
+<img src="img/SD.svg" height="50" width="50px">
+<img src="img/DO.svg" height="50" width="50px">
 </div>
 
 ## 📖 Certifications:
 
 <div>
-<img src="img/Cer1.png" height="70" width="85px">
-<img src="img/Cer2.png" height="70" width="85px">
-<img src="img/Cer3.png" height="70" width="85px">
-<img src="img/Cer4.png" height="70" width="85px">
-<img src="img/Cer5.png" height="70" width="85px">
-<img src="img/Cer6.png" height="70" width="85px">
-<img src="img/Cer7.png" height="70" width="85px">
-<img src="img/Cer8.png" height="70" width="85px">
+<img src="img/Cer1.png" height="70" width="100px">
+<img src="img/Cer2.png" height="70" width="100px">
+<img src="img/Cer3.png" height="70" width="100px">
+<img src="img/Cer4.png" height="70" width="100px">
+<img src="img/Cer5.png" height="70" width="100px">
+<img src="img/Cer6.png" height="70" width="100px">
+<img src="img/Cer7.png" height="70" width="100px">
+<img src="img/Cer8.png" height="70" width="100px">
 </div>
 
 ## 🔤 Languages:
@@ -36,8 +36,8 @@
 <div>
 <img src="img/C.webp" height="50" width="50px">
 <img src="img/C++.png" height="50" width="50px">
-<img src="img/Python.png" height="50" width="50px">
 <img src="img/CS.png" height="50" width="50px">
+<img src="img/Python.png" height="50" width="50px">
 <img src="img/JS.svg" height="50" width="50px">
 <img src="img/HTML.png" height="50" width="50px">
 <img src="img/CSS.png" height="50" width="50px">
