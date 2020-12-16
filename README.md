@@ -11,24 +11,11 @@
 
 ## 🚀 Interests:
 <div>
-<img src="img/CC.png" height="50" width="50px">
+<img src="img/CC.svg" height="50" width="50px">
 <img src="img/AI.svg" height="50" width="50px">
 <img src="img/WD.svg" height="50" width="50px">
 <img src="img/SD.svg" height="50" width="50px">
 <img src="img/DO.svg" height="50" width="50px">
-</div>
-
-## 📖 Certifications:
-
-<div>
-<img src="img/Cer1.png" height="70" width="100px">
-<img src="img/Cer2.png" height="70" width="100px">
-<img src="img/Cer3.png" height="70" width="100px">
-<img src="img/Cer4.png" height="70" width="100px">
-<img src="img/Cer5.png" height="70" width="100px">
-<img src="img/Cer6.png" height="70" width="100px">
-<img src="img/Cer7.png" height="70" width="100px">
-<img src="img/Cer8.png" height="70" width="100px">
 </div>
 
 ## 🔤 Languages:
@@ -66,6 +53,19 @@
 <img src="img/mongodb.png" height="60" width="60px">
 <img src="img/oracle.png" height="60" width="60px">
 <img src="img/mysql.png" height="60" width="60px">
+</div>
+
+## 📖 Certifications:
+
+<div>
+<img src="img/Cer1.png" height="70" width="100px">
+<img src="img/Cer2.png" height="70" width="100px">
+<img src="img/Cer3.png" height="70" width="100px">
+<img src="img/Cer4.png" height="70" width="100px">
+<img src="img/Cer5.png" height="70" width="100px">
+<img src="img/Cer6.png" height="70" width="100px">
+<img src="img/Cer7.png" height="70" width="100px">
+<img src="img/Cer8.png" height="70" width="100px">
 </div>
 
 ## My Github stats:
