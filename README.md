@@ -1,8 +1,26 @@
 ## 👋 Hi there! I am Tashik Moin.
+      
 
-- 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from <b>National University Of Computer & Emerging Sciences (FAST), Karachi</b>.
-- 🔧 My expertise mainly lies in solving real world problems using web implementations.
-- 📖 I am currently spending time learning various web technologies, CI/CD and cloud computing.
+- 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from 
+<b>National University Of Computer & Emerging Sciences (FAST), Karachi</b>.
+- 🔧 I love computers and I like to explore new tools and new technologies. 
+      I am also a Microsoft Certified Trainer (MCT) who teaches these tools
+      and technologies to other people around me. I have also done following 
+      certifications,
+      - Microsoft Azure fundamental AZ-900.
+      - Software development fundamentals with C# 98-361 
+      - Introduction to programming with Python 98-381.
+      - Oracle Cloud Infrastructure Foundations 2020 Certified Associate.
+      - Oracle Cloud Infrastructure 2019 Cloud Operations Associate.
+      - Oracle Cloud Infrastructure Developer 2020 Certified Associate.
+      - Microsoft Office Specialist 2019.
+      
+- 📖 My interested areas are,
+     <b> Cloud Computing </b>
+     <b> Artificial Intelligence </b>
+     <b> Web Development </b>
+     <b> Software Engineering </b>
+
 
 ## 🚀 Some personal projects:
 
