@@ -58,14 +58,14 @@
 ## 📖 Certifications:
 
 <div>
-<img src="img/Cer1.png" height="70" width="100px">
-<img src="img/Cer2.png" height="70" width="100px">
-<img src="img/Cer3.png" height="70" width="100px">
-<img src="img/Cer4.png" height="70" width="100px">
-<img src="img/Cer5.png" height="70" width="100px">
-<img src="img/Cer6.png" height="70" width="100px">
-<img src="img/Cer7.png" height="70" width="100px">
-<img src="img/Cer8.png" height="70" width="100px">
+<img src="img/Cer1.png" height="100" width="100px">
+<img src="img/Cer2.png" height="100" width="100px">
+<img src="img/Cer3.png" height="100" width="100px">
+<img src="img/Cer4.png" height="100" width="100px">
+<img src="img/Cer5.png" height="100" width="100px">
+<img src="img/Cer6.png" height="100" width="100px">
+<img src="img/Cer7.png" height="100" width="100px">
+<img src="img/Cer8.png" height="100" width="100px">
 </div>
 
 ## My Github stats:
