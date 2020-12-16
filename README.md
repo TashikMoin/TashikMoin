@@ -7,12 +7,12 @@
      
 ## 🔧 Experience:
 <div>
-<h2> Cloud Analyst at Plugcloud, INC </h2>
-<h2> Microsoft Certified Trainer (MCT) </h2>
-<h2> Microsoft Gold Student Ambassador (GMLSA) </h2>
-<h2> Microsoft Certified Professional (MCP) </h2>
-<h2> Microsoft Office Specialist (MOS) </h2>
-<h2> Microsoft Technology Associate (MTA) </h2>
+<h3> Cloud Analyst at Plugcloud, INC </h3>
+<h3> Microsoft Certified Trainer (MCT) </h3>
+<h3> Microsoft Gold Student Ambassador (GMLSA) </h3>
+<h3> Microsoft Certified Professional (MCP) </h3>
+<h3> Microsoft Office Specialist (MOS) </h3>
+<h3> Microsoft Technology Associate (MTA) </h3>
 </div>
       
 
