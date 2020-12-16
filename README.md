@@ -15,20 +15,20 @@
 <img src="img/AI.png" height="50" width="50px">
 <img src="img/WD.png" height="50" width="50px">
 <img src="img/SD.png" height="50" width="50px">
-<img src="img/DO.png" height="50" width="50px">
+<img src="img/DO.webp" height="50" width="50px">
 </div>
 
 ## 📖 Certifications:
 
 <div>
-<img src="img/Cer1.png" height="70" width="70px">
-<img src="img/Cer2.png" height="70" width="70px">
-<img src="img/Cer3.png" height="70" width="70px">
-<img src="img/Cer4.png" height="70" width="70px">
-<img src="img/Cer5.png" height="70" width="70px">
-<img src="img/Cer6.png" height="70" width="70px">
-<img src="img/Cer7.png" height="70" width="70px">
-<img src="img/Cer8.png" height="70" width="70px">
+<img src="img/Cer1.png" height="70" width="85px">
+<img src="img/Cer2.png" height="70" width="85px">
+<img src="img/Cer3.png" height="70" width="85px">
+<img src="img/Cer4.png" height="70" width="85px">
+<img src="img/Cer5.png" height="70" width="85px">
+<img src="img/Cer6.png" height="70" width="85px">
+<img src="img/Cer7.png" height="70" width="85px">
+<img src="img/Cer8.png" height="70" width="85px">
 </div>
 
 ## 🔤 Languages:
@@ -37,7 +37,7 @@
 <img src="img/C.webp" height="50" width="50px">
 <img src="img/C++.png" height="50" width="50px">
 <img src="img/Python.png" height="50" width="50px">
-<img src="img/C#.png" height="50" width="50px">
+<img src="img/CS.png" height="50" width="50px">
 <img src="img/JS.svg" height="50" width="50px">
 <img src="img/HTML.png" height="50" width="50px">
 <img src="img/CSS.png" height="50" width="50px">
@@ -48,7 +48,7 @@
 <div>
 <img src="img/node.svg" height="60" width="60px">
 <img src="img/react.svg" height="60" width="60px">
-<img src="img/express.svg" height="60" width="60px">
+<img src="img/express.png" height="60" width="60px">
 <img src="img/.NET.png" height="60" width="60px">
 </div>
 
