@@ -1,9 +1,7 @@
 ## 👋 Hi there! I am Tashik Moin.
       
 
-## 🏫 
-     Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                      
-     <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
+## 🏫 Currently doing my <b>Bachelors in Computer Science (BSCS)</b> from                                                                                                     <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
      
 ## 🔧 Experience:
 <div>
