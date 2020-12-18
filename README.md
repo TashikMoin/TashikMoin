@@ -63,7 +63,7 @@
 <img src="img/mysql.png" height="60" width="60px">
 </div>
 
-## 📖 Certifications:
+## 📖 Certifications And Other Achievements:
 
 <div>
 <img src="img/Cer1.png" style="zoom: 100%;" height="80" width="100px">
