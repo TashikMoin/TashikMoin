@@ -15,6 +15,14 @@
 <h5> - Microsoft Office Specialist (MOS) </h5>
 <h5> - Microsoft Technology Associate (MTA) </h5>
 </div>
+
+
+## 🏫 Recognitions:
+<div>
+<h5> - BSCS Dean's List Spring 2019 </h5>
+<h5> - BSCS Dean's List Spring 2020 </h5>
+<h5> - BSCS Dean's List Fall 2020 </h5>
+</div>
       
 
 ## 🚀 Skills And Interests:
@@ -63,11 +71,6 @@
 <img src="img/mysql.png" height="60" width="60px">
 </div>
 
-<div>
-<h5> - BSCS Dean's List Spring 2019 </h5>
-<h5> - BSCS Dean's List Spring 2020 </h5>
-<h5> - BSCS Dean's List Fall 2020 </h5>
-</div>
 
 ## 📖 Certifications And Other Achievements:
 
