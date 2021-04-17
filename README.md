@@ -54,6 +54,9 @@
 <img src="img/react.svg" height="60" width="60px">
 <img src="img/express.png" height="60" width="60px">
 <img src="img/.NET.png" height="60" width="60px">
+ <img src="img/tensorflow.svg" height="60" width="60px">
+ <img src="img/keras.png" height="60" width="60px">
+ <img src="img/pytorch.png" height="60" width="60px">
 </div>
 
 ## 🛠 Tools:
