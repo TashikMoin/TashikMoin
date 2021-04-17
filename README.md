@@ -1,7 +1,8 @@
 ## 👋 Hi there! I am Tashik Moin. 
  <div>
       <h6>
-            I am currently doing my <b> Bachelors in Computer Science (BSCS)</b> from                                                                                                     <b> National University Of Computer & Emerging Sciences (FAST), Karachi </b>.
+            Prioritizing product and customer requirements, defining the product vision, and working closely 
+            with the IT and support departments to ensure revenue and customer satisfaction goals are met.
       </h6>
  </div>
 
