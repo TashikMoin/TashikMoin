@@ -57,7 +57,7 @@
 <img src="img/.NET.png" height="60" width="60px">
  <img src="img/tensorflow.svg" height="60" width="60px">
  <img src="img/keras.svg" height="60" width="60px">
- <img src="img/pytorch.svg" height="60" width="60px">
+ <img src="img/pytorch.svg" height="65" width="90px">
 </div>
 
 ## 🛠 Tools:
