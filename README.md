@@ -29,52 +29,52 @@
 
 ## 🚀 Skills And Interests:
 <div>
-<img src="img/CC.svg" height="50" width="50px">
-<img src="img/AI.svg" height="50" width="50px">
-<img src="img/WD.svg" height="50" width="50px">
-<img src="img/DO.svg" height="50" width="50px">
+<img src="img/CC.svg" height="70" width="100px">
+<img src="img/AI.svg" height="70" width="100px">
+<img src="img/WD.svg" height="70" width="100px">
+<img src="img/DO.svg" height="70" width="100px">
 </div>
 
 ## 🔤 Languages:
 
 <div>
-<img src="img/C.webp" height="50" width="50px">
-<img src="img/C++.png" height="50" width="50px">
-<img src="img/CS.png" height="50" width="50px">
-<img src="img/Python.png" height="50" width="50px">
-<img src="img/JS.svg" height="50" width="50px">
-<img src="img/HTML.png" height="50" width="50px">
-<img src="img/CSS.png" height="50" width="50px">
+<img src="img/C.webp" height="70" width="100px">
+<img src="img/C++.png" height="70" width="100px">
+<img src="img/CS.png" height="70" width="100px">
+<img src="img/Python.png" height="70" width="100px">
+<img src="img/JS.svg" height="70" width="100px">
+<img src="img/HTML.png" height="70" width="100px">
+<img src="img/CSS.png" height="70" width="100px">
 </div>
 
 
 ## :gear: Frameworks:
 
 <div>
-<img src="img/node.svg" height="60" width="60px">
-<img src="img/express.png" height="60" width="60px">
-<img src="img/react.svg" height="60" width="60px">
-<img src="img/next.png" height="60" width="60px">
-<img src="img/.NET.png" height="60" width="60px">
- <img src="img/tensorflow.svg" height="60" width="60px">
- <img src="img/keras.svg" height="60" width="60px">
- <img src="img/pytorch.svg" height="65" width="90px">
+<img src="img/node.svg" height="70" width="100px">
+<img src="img/express.png" height="70" width="100px">
+<img src="img/react.svg" height="70" width="100px">
+<img src="img/next.png" height="70" width="100px">
+<img src="img/.NET.png" height="70" width="100px">
+ <img src="img/tensorflow.svg" height="70" width="100px">
+ <img src="img/keras.svg" height="70" width="100px">
+ <img src="img/pytorch.svg" height="70" width="100px">
 </div>
 
 ## 🛠 Tools:
 
 <div>
-<img src="img/Linux.svg" height="60" width="60px">
-<img src="img/git.svg" height="60" width="60px">
-<img src="img/bash.svg" height="60" width="60px">
-<img src="img/github.svg" height="60" width="60px">
-<img src="img/docker.webp" height="60" width="60px">
-<img src="img/AWS.png" height="60" width="60px">
-<img src="img/azure.png" height="60" width="60px">
-<img src="img/npm.svg" height="60" width="60px">
-<img src="img/mongodb.png" height="60" width="60px">
-<img src="img/oracle.png" height="60" width="60px">
-<img src="img/mysql.png" height="60" width="60px">
+<img src="img/Linux.svg" height="70" width="100px">
+<img src="img/git.svg" height="70" width="100px">
+<img src="img/bash.svg" height="70" width="100px">
+<img src="img/github.svg" height="70" width="100px">
+<img src="img/docker.webp" height="70" width="100px">
+<img src="img/AWS.png" height="70" width="100px">
+<img src="img/azure.png" height="70" width="100px">
+<img src="img/npm.svg" height="70" width="100px">
+<img src="img/mongodb.png" height="70" width="100px">
+<img src="img/oracle.png" height="70" width="100px">
+<img src="img/mysql.png" height="70" width="100px">
 </div>
 
 
