@@ -93,4 +93,4 @@
 
 ## My Github stats:
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tashikmoin23)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tashikmoin)
