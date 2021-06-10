@@ -9,10 +9,10 @@
      
 ## 🏫 Experience:
 <div>
-<h5> - Cloud Analyst at Plugcloud, INC </h5>
+<h5> - Cloud Architect at Plugcloud, INC </h5>
 <h5> - Microsoft Certified Trainer (MCT) </h5>
 <h5> - Microsoft Gold Student Ambassador (GMLSA) </h5>
- <h5> - Microsoft Certified Solutions Associate (MCSA) </h5>
+<h5> - Microsoft Certified Solutions Associate (MCSA) </h5>
 <h5> - Microsoft Certified Professional (MCP) </h5>
 <h5> - Microsoft Office Specialist (MOS) </h5>
 <h5> - Microsoft Technology Associate (MTA) </h5>
