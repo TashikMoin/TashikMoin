@@ -9,7 +9,7 @@
      
 ## 🏫 Experience:
 <div>
-<h5> - Cloud Architect at Plugcloud, INC </h5>
+<h5> - Cloud Automation Engineer at Plugcloud, INC </h5>
 <h5> - Microsoft Certified Trainer (MCT) </h5>
 <h5> - Microsoft Gold Student Ambassador (GMLSA) </h5>
 <h5> - Microsoft Certified Solutions Associate (MCSA) </h5>
